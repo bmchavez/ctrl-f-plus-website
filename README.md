@@ -33,3 +33,15 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 # ctrl-f-plus-chrome-extension-website
+
+
+## TODO:
+  - [ ] Consolidate Logo Icons if possible
+  - [ ] Add Gradient
+    - https://codepen.io/P1N2O/pen/pyBNzX
+    - https://dev.to/geowrgetudor/gradient-animated-text-with-tailwind-css-24a0
+    - https://www.andrealves.dev/blog/how-to-make-an-animated-gradient-text-with-tailwindcss/
+    - https://javascript.plainenglish.io/animated-text-gradients-with-react-and-styled-components-93891797eaf1
+    - https://www.joshwcomeau.com/react/rainbow-button/
+
+  - [] Do we want to use the version with the dark grey or light square? See the 1270px-1024px screen for the light grey version
